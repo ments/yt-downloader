@@ -1,0 +1,7 @@
+bin/
+lib/
+__pycache__/
+pyvenv.cfg
+build/
+dist/
+yt_downloader.egg-info/
